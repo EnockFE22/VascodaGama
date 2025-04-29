@@ -1,0 +1,290 @@
+{
+  "clube": {
+    "nome": "Club de Regatas Vasco da Gama",
+    "cores": [
+      "preto",
+      "branco"
+    ],
+    "fundacao": "1898-08-21",
+    "estadio": "São Januário",
+    "tecnico": "Fábio Carille",
+    "presidente": "Pedrinho",
+    "titulos": [
+      "Sul-Americano de Clubes 1948",
+      "Campeonato Brasileiro: 1974, 1989, 1997, 2000",
+      "Libertadores: 1998",
+      "Copa do Brasil: 2011"
+    ],
+    "jogos": "5242",
+    "vitorias": "2808",
+    "empates": "1196",
+    "derrotas": "1238",
+    "gols_pro": "10463",
+    "gols_sofridos": "6147",
+    "saldo_de_gols": "4316"
+  },
+  "elenco": [
+    {
+      "nome": "Léo Jardim",
+      "posicao": "Goleiro",
+      "idade": 29
+    },
+    {
+      "nome": "João Victor",
+      "posicao": "Zagueiro",
+      "idade": 26
+    },
+    {
+      "nome": "David",
+      "posicao": "Atacante",
+      "idade": 25
+    },
+    {
+      "nome": "Adson",
+      "posicao": "Atacante",
+      "idade": 25
+    },
+    {
+      "nome": "Galdames",
+      "posicao": "Meia",
+      "idade": 28
+    },
+    {
+      "nome": "Emerson Rodríguez",
+      "posicao": "Meia",
+      "idade": 22
+    },
+    {
+      "nome": "Coutinho",
+      "posicao": "Meia",
+      "idade": 32
+    },
+    {
+      "nome": "Alex Teixeira",
+      "posicao": "Meia",
+      "idade": 35
+    },
+    {
+      "nome": "Jean David",
+      "posicao": "Meia",
+      "idade": 22
+    },
+    {
+      "nome": "Maxime Domínguez",
+      "posicao": "Meia",
+      "idade": 23
+    },
+    {
+      "nome": "Souza",
+      "posicao": "Volante",
+      "idade": 25
+    },
+    {
+      "nome": "Keiller",
+      "posicao": "Goleiro",
+      "idade": 24
+    },
+    {
+      "nome": "Clayton",
+      "posicao": "Atacante",
+      "idade": 28
+    },
+    {
+      "nome": "Rojas",
+      "posicao": "Meia",
+      "idade": 29
+    },
+    {
+      "nome": "Victor Luis",
+      "posicao": "Lateral Esquerdo",
+      "idade": 29
+    },
+    {
+      "nome": "Hugo Moura",
+      "posicao": "Volante",
+      "idade": 26
+    },
+    {
+      "nome": "Sforza",
+      "posicao": "Meia",
+      "idade": 23
+    },
+    {
+      "nome": "Germán Cano",
+      "posicao": "Atacante",
+      "idade": 36
+    },
+    {
+      "nome": "Medel",
+      "posicao": "Zagueiro",
+      "idade": 37
+    }
+  ],
+  "transferencias": [
+    {
+      "jogador": "Léo Jardim",
+      "data_transferencia": "2023-12-15",
+      "de": "Lyon",
+      "para": "Vasco",
+      "valor": "Empréstimo"
+    },
+    {
+      "jogador": "David",
+      "data_transferencia": "2024-01-10",
+      "de": "Criciúma",
+      "para": "Vasco",
+      "valor": "Compra"
+    },
+    {
+      "jogador": "João Victor",
+      "data_transferencia": "2024-01-15",
+      "de": "Benfica",
+      "para": "Vasco",
+      "valor": "6 milhões de euros"
+    },
+    {
+      "jogador": "Fuzato",
+      "data_transferencia": "2025-01-10",
+      "de": "Eibar",
+      "para": "Vasco",
+      "valor": "Empréstimo"
+    },
+    {
+      "jogador": "Néiser Villarreal",
+      "data_transferencia": "2025-02-01",
+      "de": "Millonarios",
+      "para": "Vasco",
+      "valor": "4 milhões de dólares"
+    }
+  ],
+  "partidas": [
+    {
+      "data": "2024-04-10",
+      "adversario": "Flamengo",
+      "local": "Maracanã",
+      "resultado": "3-2",
+      "tipo": "passado"
+    },
+    {
+      "data": "2024-04-25",
+      "adversario": "Botafogo",
+      "local": "São Januário",
+      "resultado": "1-1",
+      "tipo": "passado"
+    },
+    {
+      "data": "2024-05-10",
+      "adversario": "Palmeiras",
+      "local": "Allianz Parque",
+      "resultado": "0-2",
+      "tipo": "passado"
+    },
+    {
+      "data": "2024-06-05",
+      "adversario": "São Paulo",
+      "local": "São Januário",
+      "resultado": "2-2",
+      "tipo": "passado"
+    },
+    {
+      "data": "2024-07-20",
+      "adversario": "Atlético-MG",
+      "local": "Mineirão",
+      "resultado": "1-0",
+      "tipo": "passado"
+    },
+    {
+      "data": "2024-08-15",
+      "adversario": "Fortaleza",
+      "local": "São Januário",
+      "resultado": "3-1",
+      "tipo": "passado"
+    },
+    {
+      "data": "2024-09-30",
+      "adversario": "Internacional",
+      "local": "Beira-Rio",
+      "resultado": "1-1",
+      "tipo": "passado"
+    },
+    {
+      "data": "2024-10-25",
+      "adversario": "Grêmio",
+      "local": "São Januário",
+      "resultado": "2-0",
+      "tipo": "passado"
+    },
+    {
+      "data": "2024-11-10",
+      "adversario": "Fluminense",
+      "local": "Maracanã",
+      "resultado": "0-2",
+      "tipo": "passado"
+    },
+    {
+      "data": "2025-01-15",
+      "adversario": "Corinthians",
+      "local": "São Januário",
+      "resultado": "1-1",
+      "tipo": "futuro"
+    },
+    {
+      "data": "2025-02-05",
+      "adversario": "Atlético-MG",
+      "local": "Mineirão",
+      "resultado": "—",
+      "tipo": "futuro"
+    },
+    {
+      "data": "2025-03-01",
+      "adversario": "Bahia",
+      "local": "São Januário",
+      "resultado": "—",
+      "tipo": "futuro"
+    },
+    {
+      "data": "2025-03-15",
+      "adversario": "Palmeiras",
+      "local": "Allianz Parque",
+      "resultado": "—",
+      "tipo": "futuro"
+    },
+    {
+      "data": "2025-04-10",
+      "adversario": "Grêmio",
+      "local": "Arena do Grêmio",
+      "resultado": "—",
+      "tipo": "futuro"
+    }
+  ],
+  "outrasInformacoes": [
+    {
+      "Mascote": "Almirante",
+      "img": "assets/img/almirante.jpg"
+    },
+    {
+      "Torcida": "Popularmente conhecida como: A Mais Leal.",
+      "img": "assets/img/torcida.jpg"
+    },
+    {
+      "Maior_Ídolo": "Roberto Dinamite",
+      "img": "assets/img/dinamite.jpg"
+    },
+    {
+      "Estádio_Vasco_da_Gama": "Popurlamente conhecido como São Januário está proximo de completar 100 anos desde sua Fundação sendo ainda um dos poucos estadios Raiz, na era das arenas modernas.",
+      "img": "assets/img/saojanu.jpg"
+    },
+    {
+      "VascoSaf": "O Vasco é gerido pelo associativo, que entrou com uma liminar para afastar o grupo comprador que havia feito acordo por 70% dos D.E. da Vasco SAF, porém, Não cumpriu com os pagamentos, entre outros discumprimentos de contrato firmado.",
+      "img": ""
+    },
+    {
+      "Ténico": "Após a Demissão de Fábio Carille Fernando Diniz é o mais cotado para assumir o comando Técnico.",
+      "img": ""
+    },
+    {
+      "Jóia_da_base": "Rayan, atacante de 17 anos, é considerado uma das maiores promessas recentes.",
+      "img": "assets/img/rayan.jpg"
+    }
+  ]
+}
